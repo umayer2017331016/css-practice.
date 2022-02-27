@@ -1,8 +1,38 @@
-
+body{
+    background-color: #F3F1FF;
+}
+.header{
+    margin-bottom: 10px;
+}
 .brand-logo{
   
     width: 40.42px;
     height: 51px;
     left: 285px;
     top: 26px;
+    margin-left: 110px;
+}
+.nav-item{
+    margin: 0 20px !important;
+    margin-top: 40px;
+}
+.top-player h4{
+
+width: 125px;
+height: 36px;
+left: 318px;
+top: 163px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #562EFF;
+}
+.player img{
+    width: 56px;
+height: 56px;
+left: 315px;
+top: 239px;
 }
